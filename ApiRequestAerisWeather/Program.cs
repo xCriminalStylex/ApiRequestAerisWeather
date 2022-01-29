@@ -1,7 +1,5 @@
-﻿using RestSharp;
-using System;
+﻿using System;
 using System.Net;
-using static System.Net.WebRequestMethods;
 using System.IO;
 using Newtonsoft.Json;
 using ApiRequestAerisWeather.ResponseWeatherAPI;
